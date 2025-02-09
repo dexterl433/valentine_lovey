@@ -5,8 +5,7 @@ const messages = [
     "Wifey please...",
     "🌹Please look at ur hubby before you click no again? Promise you won't regret🌹",
     "Woi don't click so fast ",
-    "hold up hold up",
-    "Please don't click no again i'll be very sad...",
+    "Please don't click no again I'll be very sad...",
     "Please noooo don press lovey T_T"
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
