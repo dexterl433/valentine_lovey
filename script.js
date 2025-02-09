@@ -4,9 +4,10 @@ const messages = [
     "Really Really Sure?",
     "Wifey please...",
     "Look at ur hubby and click no again!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Woi don't click so fast ",
+    "hold up hold up",
+    "Please don't click no again i'll be very sad...",
+    "Please noooo don press lovey T_T"
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
