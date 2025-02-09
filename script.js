@@ -3,7 +3,7 @@ const messages = [
     "Really sure??",
     "Really Really Sure?",
     "Wifey please...",
-    "Look at ur hubby and click no again!",
+    "Please look at ur hubby before you click no again? Promise you won't regret",
     "Woi don't click so fast ",
     "hold up hold up",
     "Please don't click no again i'll be very sad...",
